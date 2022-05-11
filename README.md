@@ -1,6 +1,6 @@
 ### Olá! Eu sou José Lucas Monteiro
 
-- 🌱 Estudando Java / SpringBoot
+- 🌱 Estudando HTML / CSS / JAVASCRIPT
 - 😄 Pronouns: ele/dele
 
 
